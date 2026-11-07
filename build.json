@@ -1,0 +1,80 @@
+{
+ "name": "PFAD_00",
+ "matrix": "PFAD",
+ "template_source": "systems\\winmostar_orig\\PFAD40_RDF\\PFAD40_TC11_LMP_NPT\\lmp.data",
+ "counts": {
+  "palmitic": 245,
+  "oleic": 175,
+  "linoleic": 43,
+  "stearic": 20,
+  "myristic": 7,
+  "lauric": 3,
+  "caprylic": 2,
+  "linolenic": 2,
+  "capric": 1,
+  "palmitoleic": 1,
+  "arachidic": 1,
+  "biochar": 0
+ },
+ "n_atoms": 25772,
+ "n_molecules": 500,
+ "nominal_wt_pct": 0,
+ "real_wt_pct": 0.0,
+ "M_PCM_mean_g_mol": 267.566,
+ "M_biochar_g_mol": 795.68,
+ "pack_density_g_cm3": 0.55,
+ "pack_box_A": [
+  58.670415822817034,
+  58.670415822817034,
+  117.34083164563407
+ ],
+ "aspect_Lz_Lx": 2.0,
+ "mol_ranges": {
+  "palmitic": [
+   1,
+   245
+  ],
+  "oleic": [
+   246,
+   420
+  ],
+  "linoleic": [
+   421,
+   463
+  ],
+  "stearic": [
+   464,
+   483
+  ],
+  "myristic": [
+   484,
+   490
+  ],
+  "lauric": [
+   491,
+   493
+  ],
+  "caprylic": [
+   494,
+   495
+  ],
+  "linolenic": [
+   496,
+   497
+  ],
+  "capric": [
+   498,
+   498
+  ],
+  "palmitoleic": [
+   499,
+   499
+  ],
+  "arachidic": [
+   500,
+   500
+  ]
+ },
+ "n_constraints": 16336,
+ "packmol_tolerance_A": 2.0
+}
