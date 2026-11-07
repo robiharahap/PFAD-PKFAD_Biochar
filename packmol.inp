@@ -7,55 +7,60 @@ movebadrandom
 
 structure palmitic.xyz
   number 245
-  inside box 1.0 1.0 1.0 57.670 57.670 116.341
+  inside box 1.0 1.0 1.0 58.699 58.699 118.398
 end structure
 
 structure oleic.xyz
   number 175
-  inside box 1.0 1.0 1.0 57.670 57.670 116.341
+  inside box 1.0 1.0 1.0 58.699 58.699 118.398
 end structure
 
 structure linoleic.xyz
   number 43
-  inside box 1.0 1.0 1.0 57.670 57.670 116.341
+  inside box 1.0 1.0 1.0 58.699 58.699 118.398
 end structure
 
 structure stearic.xyz
   number 20
-  inside box 1.0 1.0 1.0 57.670 57.670 116.341
+  inside box 1.0 1.0 1.0 58.699 58.699 118.398
 end structure
 
 structure myristic.xyz
   number 7
-  inside box 1.0 1.0 1.0 57.670 57.670 116.341
+  inside box 1.0 1.0 1.0 58.699 58.699 118.398
 end structure
 
 structure lauric.xyz
   number 3
-  inside box 1.0 1.0 1.0 57.670 57.670 116.341
+  inside box 1.0 1.0 1.0 58.699 58.699 118.398
 end structure
 
 structure caprylic.xyz
   number 2
-  inside box 1.0 1.0 1.0 57.670 57.670 116.341
+  inside box 1.0 1.0 1.0 58.699 58.699 118.398
 end structure
 
 structure linolenic.xyz
   number 2
-  inside box 1.0 1.0 1.0 57.670 57.670 116.341
+  inside box 1.0 1.0 1.0 58.699 58.699 118.398
 end structure
 
 structure capric.xyz
   number 1
-  inside box 1.0 1.0 1.0 57.670 57.670 116.341
+  inside box 1.0 1.0 1.0 58.699 58.699 118.398
 end structure
 
 structure palmitoleic.xyz
   number 1
-  inside box 1.0 1.0 1.0 57.670 57.670 116.341
+  inside box 1.0 1.0 1.0 58.699 58.699 118.398
 end structure
 
 structure arachidic.xyz
   number 1
-  inside box 1.0 1.0 1.0 57.670 57.670 116.341
+  inside box 1.0 1.0 1.0 58.699 58.699 118.398
+end structure
+
+structure biochar.xyz
+  number 9
+  inside box 1.0 1.0 1.0 58.699 58.699 118.398
 end structure

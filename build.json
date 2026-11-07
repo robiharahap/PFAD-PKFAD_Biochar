@@ -1,5 +1,5 @@
 {
- "name": "PFAD_00",
+ "name": "PFAD_05",
  "matrix": "PFAD",
  "template_source": "systems\\winmostar_orig\\PFAD40_RDF\\PFAD40_TC11_LMP_NPT\\lmp.data",
  "counts": {
@@ -14,19 +14,19 @@
   "capric": 1,
   "palmitoleic": 1,
   "arachidic": 1,
-  "biochar": 0
+  "biochar": 9
  },
- "n_atoms": 25772,
- "n_molecules": 500,
- "nominal_wt_pct": 0,
- "real_wt_pct": 0.0,
+ "n_atoms": 26537,
+ "n_molecules": 509,
+ "nominal_wt_pct": 5,
+ "real_wt_pct": 5.081,
  "M_PCM_mean_g_mol": 267.566,
  "M_biochar_g_mol": 795.68,
  "pack_density_g_cm3": 0.55,
  "pack_box_A": [
-  58.670415822817034,
-  58.670415822817034,
-  117.34083164563407
+  59.69910783444511,
+  59.69910783444511,
+  119.39821566889022
  ],
  "aspect_Lz_Lx": 2.0,
  "mol_ranges": {
@@ -73,8 +73,12 @@
   "arachidic": [
    500,
    500
+  ],
+  "biochar": [
+   501,
+   509
   ]
  },
- "n_constraints": 16336,
+ "n_constraints": 16561,
  "packmol_tolerance_A": 2.0
 }
